@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanHBTU (Rohan Kumar Singh, 17)
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Python(Intermediate) and Java(for fun).
+- 🌱 I’m currently learning Python(Intermediate) and C++(to enhance problem solving skills).
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me: Mail me at 210106053@hbtu.ac.in 
 

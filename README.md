@@ -8,10 +8,10 @@ Student at Harcourt Butler Technical University, Kanpur | 1st BTech Electronics 
 Python, WebD (HTML,CSS) in Senior Secondary, High School | Channelled my energy during covid to seek out virtually and gain exposure globally.
 
 <p>
-  <a href="www.linkedin.com/in/rohan-kumar-singh-b17400227" rel="nofollow noreferrer">
+  <a href="www.linkedin.com/in/rohan-kumar-singh-b17400227">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/RohanHBTU" rel="nofollow noreferrer">
+  <a href="https://github.com/RohanHBTU">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> 
 </p>

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohanHBTU (Rohan Kumar Singh, 18)
-- 👀 I’m interested in Data Science and ML/DL.
+- 👀 I’m interested in Data Science and AI/ML.
 - 🌱 I’m currently invested in Deep learning and C++(to enhance problem solving skills).
 - 💞️ I’m looking to collaborate on ML Projects.
 - 📫 How to reach me: Mail me at rohank587@gmail.com | 210106053@hbtu.ac.in  

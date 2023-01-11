@@ -31,6 +31,13 @@ Python, WebD (HTML,CSS) in Senior Secondary, High School | Channelled my energy 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <br>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanHBTU&show_icons=true&locale=en&theme=dracula" alt="RohaHBTU" />
+<!---
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanHBTU&theme=dracula&layout=compact" alt="RohaHBTU" />
+--->
+
+
 <!---
 RohanHBTU/RohanHBTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋 I'm Rohan Kumar Singh</h1>
+<h3 align="center">Aspiring Data Scientist</h3>
+<!---<h3 align="center">Connect with me:</h3>--->
+<p align="center">
+<a href="https://www.linkedin.com/in/rohan-kumar-singh-b17400227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-kumar-singh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rohanhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohanhbtu" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="susmit_py" height="40" width="40" /></a>
+<a href="mailto:rohank587@gmail.com"><img align="center" src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/Gmail_round.png" alt="@rohank587" height="43" width="43" /></a>
+</p>
+
 - 👋 Hi, I’m @RohanHBTU (Rohan Kumar Singh, 18)
 - 👀 I’m interested in Data Science and AI/ML.
 - 🌱 I’m currently invested in Deep learning and C++(to enhance problem solving skills).

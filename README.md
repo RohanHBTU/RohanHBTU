@@ -1,4 +1,4 @@
-<img src="LinkedIn banner.png"/>
+<!---<img src="LinkedIn banner.png"/>--->
 <h1 align="center">Hi 👋 I'm Rohan Kumar Singh</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <!---<h3 align="center">Connect with me:</h3>--->

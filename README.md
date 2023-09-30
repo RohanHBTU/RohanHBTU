@@ -35,7 +35,7 @@
 
 - 📫 How to reach me: Mail me at rohank587@gmail.com | 210106053@hbtu.ac.in  <br>
 <br>
-**Machine Learning Engineer** aspirant with hands-on experience in Deep learning and Machine Learning frameworks. Currently invested in **advanced NLP** | **AI/ML Lead GDSC HBTU** | **GSSOC '23** | **WOC 3.O** | **Kaggle Contributor** | **KSOC '22** | **Pre-Final Year B.Tech HBTU** | **Ex-President KodeKoch Club** | **Ex-IT Head Indus Valley Public School, Noida** | Python, WebD (HTML,CSS) in Senior Secondary and High School.
+<strong>Machine Learning Engineer</strong> aspirant with hands-on experience in Deep learning and Machine Learning frameworks. Currently invested in <strong>advanced NLP</strong> | <strong>AI/ML Lead GDSC HBTU</strong> | <strong>GSSOC '23</strong> | <strong>WOC 3.O</strong> | <strong>Kaggle Contributor</strong> | <strong>KSOC '22</strong> | <strong>Pre-Final Year B.Tech HBTU</strong> | <strong>Ex-President KodeKoch Club</strong> | <strong>Ex-IT Head Indus Valley Public School, Noida</strong> | <strong>Python, WebD (HTML,CSS)</strong> in Senior Secondary and High School.
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RohanHBTU&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="RohanHBTU" /> </p>
 <center>

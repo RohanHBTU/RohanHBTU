@@ -42,7 +42,7 @@
 <p align="center">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,mongodb,mysql,heroku,flask,fastapi,tensorflow,pytorch,html,css,git,netlify,nginx,vscode&perline=4" alt="python"/>
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,mongodb,mysql,heroku,flask,fastapi,tensorflow,pytorch,cmake,html,css,git,netlify,nginx,vscode,docker,bash,githubactions&perline=4" alt="python"/>
 <br><br>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>&nbsp;&nbsp;
